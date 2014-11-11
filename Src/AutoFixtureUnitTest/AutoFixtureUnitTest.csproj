@@ -103,7 +103,7 @@
     <Compile Include="Kernel\OmitEnumerableParameterRequestRelayTests.cs" />
     <Compile Include="Kernel\TerminatingWithPathSpecimenBuilderTest.cs" />
     <Compile Include="Kernel\PropertySpecificationTest.cs" />
-    <Compile Include="Kernel\BaseTypeSpecificationTest.cs" />
+    <Compile Include="Kernel\DirectBaseTypeSpecificationTest.cs" />
     <Compile Include="Kernel\ParameterSpecificationTest.cs" />
     <Compile Include="Kernel\FieldSpecificationTest.cs" />
     <Compile Include="MapCreateManyToEnumerableTests.cs" />
